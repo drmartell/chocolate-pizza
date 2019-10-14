@@ -146,7 +146,7 @@ input[type=checkbox]:checked + label.strikethrough {
 button {
 	background-color:#bc6f58;
 	border:1px solid #ffffff;
-	display:inline-block;
+	display:block;
 	cursor:pointer;
 	color:#ffffff;
 	font-family: 'Abel', sans-serif;;
